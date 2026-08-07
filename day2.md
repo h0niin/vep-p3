@@ -2,7 +2,7 @@ Day #2
 
 **Partner**: Umma | **Date**: Jul 8, 2026
 
-**Activity**: Cooking _Payasam_together.
+**Activity**: Cooking _Payasam_ together.
 
 **Activity Log**
 
