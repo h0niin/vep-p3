@@ -6,7 +6,7 @@ Day #1
 
 **Activity Log**
 
-Moothemma mentioned how slow and annoying typing on screens were. I installed Wispr Flow, a voice-to-text accessibility tool that turns rambling speech into perfectly formatted text, so you can just talk instead of type. Unlike built-in voice dictation, Flow cleans up what you say as you speak. No filler words. No broken sentences. No reformatting before you hit send. It works inside any app, including ChatGPT, WhatsApp, Instagram and Gmail. I guided her step-by-step on how to tap the microphone icon and speak naturally to search for religious lectures, recipes, and news clips instead of struggling to type. We ran several practice searches together until she felt completely comfortable speaking her queries into the app.
+Moothemma mentioned how slow and annoying typing on screens were. I installed _Wispr Flow_, a voice-to-text accessibility tool that turns rambling speech into perfectly formatted text, so you can just talk instead of type. Unlike built-in voice dictation, Flow cleans up what you say as you speak. No filler words. No broken sentences. No reformatting before you hit send. It works inside any app, including ChatGPT, WhatsApp, Instagram and Gmail. I guided her step-by-step on how to tap the microphone icon and speak naturally to search for religious lectures, recipes, and news clips instead of struggling to type. We ran several practice searches together until she felt completely comfortable speaking her queries into the app.
 
 **Reflection**
 
