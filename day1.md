@@ -1,16 +1,13 @@
 Day #1
 
-**Partner**: Vallimma (Grandmother) | **Date**: Jul 7, 2026
+**Partners**: Moothemma (Aunt) | **Date**: Jul 7, 2026
 
-**Activity**: Listening to stories of my Umma's (mother) childhood.
+**Activity**: Teaching voice control on YouTube and setting up voice search.
 
 **Activity Log**
 
-While I was sitting with Vallimma on the veranda, talking about life I eventually started complaining about Umma's strict rules against climbing trees in our _paramb_. Grandma then shared the story of my mother's “Great Mango Heist”.
-
-At age 10 or 11, Umma had apparently climbed a tall _Nattumanga_ tree right after a rainstorm. Halfway up, angry red ants (_Puliurumbu_) swarmed her legs. Refusing to quit, Umma grabbed the mango with her teeth and slid down into filthy mud, holding up her prize covered in ant bites. Grandma explained that Umma's strict rules today come from remembering those painful stings.
+Moothemma mentioned how slow and annoying typing on screens were. I installed Wispr Flow, a voice-to-text accessibility tool that turns rambling speech into perfectly formatted text, so you can just talk instead of type. Unlike built-in voice dictation, Flow cleans up what you say as you speak. No filler words. No broken sentences. No reformatting before you hit send. It works inside any app, including ChatGPT, WhatsApp, Instagram and Gmail. I guided her step-by-step on how to tap the microphone icon and speak naturally to search for religious lectures, recipes, and news clips instead of struggling to type. We ran several practice searches together until she felt completely comfortable speaking her queries into the app.
 
 **Reflection**
 
-Watching Umma neatly slice a mango for us later, I couldn't help but to smile. It was wild picturing her covered in mud with a mango in her teeth. I realized her endless safety rules wasn't meant to ruin my fun but  she uses her past experiences to protect me so I can enjoy life _without getting Puliurumbu stings all over my legs_.
-
+Watching Moothemma effortlessly pull up her daily religious lecture channels just by speaking to her phone was incredible. Such accessibility tools bridge a massive accessibility gap for seniors who find touchscreens discouraging. I realized that keeping up with modern software tools isn't just a hobby for my generation, it allows me to make daily life much easier and more enjoyable for the people I love.
