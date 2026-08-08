@@ -12,25 +12,30 @@ contribute to your personal growth.
 ## Component 3: Community Engagement Activity
 ### Option 5: Family and Community Interaction Activity 
 Meaningful relationships are an important part of value-based living. 
+
 Spend time interacting with: 
 - Parents
 - Grandparents
 - Elderly relatives
 - Elderly neighbours 
-Requirement 
+
+#### Requirement 
 - At least 30 minutes per day
 - Minimum 10 days 
-Suggested Activities 
+
+#### Suggested Activities 
 - Listening to life experiences and stories
 - Helping with daily activities
 - Assisting with digital tools and technology
 - Accompanying them for walks
 - Discussing values, education, and life lessons 
-Evidence 
+
+#### Evidence 
 - Activity log
 - Reflection diary
 - Signed confirmation from a parent, guardian, or family member 
-Reflection 
+
+#### Reflection 
 Describe: 
 - What you learned from these interactions
 - How the experience strengthened empathy, respect, and understanding 
